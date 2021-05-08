@@ -1,3 +1,5 @@
-print("c"
+print("c")
 
-	)
+
+print("ccc")
+
