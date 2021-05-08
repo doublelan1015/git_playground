@@ -4,7 +4,11 @@ print("bb")
 
 print("bbb")
 
-print("wuwuwuwuwuwuwu")
+print("hahahhahahah")
+
+print("hahahhahahah again")
+
+print("hahahhahahah again and again")
 
 print("bbbb")
 
